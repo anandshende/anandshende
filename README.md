@@ -1,3 +1,4 @@
+![Anand Shende](./1706794672446.jpeg)
 
 
 As a dedicated IT enthusiast driven by a love for innovation and creative problem-solving, my commitment lies in delivering cutting-edge solutions tailored to the unique requirements of both businesses and individuals. 
