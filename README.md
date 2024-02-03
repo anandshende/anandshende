@@ -59,3 +59,6 @@ Let's work together to create solutions that make a real difference !!!
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+
+| <a href="https://github.com/anandshende/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anandshende&show_icons=true&include_all_commits=true&show=python&theme=tokyonight&hide_border=true" alt="Anand Shende's github stats" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandshende&hide=c,html,css,lua,m4,makefile,roff,shell&theme=tokyonight) |
+| ------------- | ------------- |
